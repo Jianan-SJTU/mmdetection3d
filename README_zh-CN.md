@@ -47,7 +47,7 @@
 
 主分支代码目前支持 PyTorch 1.3 以上的版本。
 
-MMDetection3D 是一个基于 PyTorch 的目标检测开源工具箱, 下一代面向3D检测的平台. 它是 OpenMMlab 项目的一部分，这个项目由香港中文大学多媒体实验室和商汤科技联合发起.
+MMDetection3D 是一个基于 PyTorch 的目标检测开源工具箱, 下一代面向3D检测的平台. 它是 OpenMMLab 项目的一部分，这个项目由香港中文大学多媒体实验室和商汤科技联合发起.
 
 ![demo image](resources/mmdet3d_outdoor_demo.gif)
 
@@ -179,7 +179,7 @@ MMDetection3D 是一款由来自不同高校和企业的研发人员共同参与
 ## OpenMMLab 的其他项目
 
 - [MMCV](https://github.com/open-mmlab/mmcv): OpenMMLab 计算机视觉基础库
-- [MIM](https://github.com/open-mmlab/mim): MIM 是 OpenMMlab 项目、算法、模型的统一入口
+- [MIM](https://github.com/open-mmlab/mim): MIM 是 OpenMMLab 项目、算法、模型的统一入口
 - [MMClassification](https://github.com/open-mmlab/mmclassification): OpenMMLab 图像分类工具箱
 - [MMDetection](https://github.com/open-mmlab/mmdetection): OpenMMLab 目标检测工具箱
 - [MMDetection3D](https://github.com/open-mmlab/mmdetection3d): OpenMMLab 新一代通用 3D 目标检测平台
